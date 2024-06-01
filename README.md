@@ -1,8 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&text=Hi!%20It's%20Cherishjh&animation=twinkling&fontSize=35&fontAlign=70&height=250)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherishjh)](https://github.com/cherishjh/github-readme-stats)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohan050605)](https://github.com/anuraghazra/github-readme-stats)
 
 ## SKILLS
