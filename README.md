@@ -1,6 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=transparent)
-
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Hi! I'm Cherishjh %20render&fontSize=90)
 <!--
 **cherishjh/cherishjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
