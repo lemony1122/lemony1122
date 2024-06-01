@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&text=Hi!%20It's%20Cherishjh&animation=twinkling&fontSize=35&fontAlign=70&height=250)
 
-<h3 align="center"> ✉️lemony3741@gmail.com✉️ </h3>
+<h4 align="center"> ✉️lemony3741@gmail.com✉️ </h4>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
