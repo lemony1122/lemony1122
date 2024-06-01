@@ -1,4 +1,3 @@
-### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&text=Hi!%20It's%20Cherishjh&animation=twinkling&fontSize=35&fontAlign=70&height=250)
 <!--
 **cherishjh/cherishjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
