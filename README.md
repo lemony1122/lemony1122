@@ -1,7 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&text=Hi!%20It's%20Cherishjh&animation=twinkling&fontSize=35&fontAlign=70&height=250)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherishjh)](https://github.com/cherishjh/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohan050605)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center"> ✉️lemony3741@gmail.com✉️ </h3>
+
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ## SKILLS
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
