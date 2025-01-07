@@ -5,7 +5,7 @@
 <h3 align="center">👩‍💻 My Github Status 👩‍💻</h3>
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![HeeJune's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherishjh&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherishjh&layout=compact&theme=vue)](https://github.com/cherishjh/github-readme-stats)
 
 </div>
