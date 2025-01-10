@@ -1,12 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&text=Hi!%20It's%20Cherishjh&animation=twinkling&fontSize=35&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&text=Hi!%20It's%20lemony1122&animation=twinkling&fontSize=35&fontAlign=70&height=250)
 
 <h5 align="center"> ✉️lemony3741@gmail.com✉️ </h5>
 
 <h3 align="center">👩‍💻 My Github Status 👩‍💻</h3>
 <div align="center">
 
-[![HeeJune's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherishjh&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherishjh&layout=compact&theme=vue)](https://github.com/cherishjh/github-readme-stats)
+[![HeeJune's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemony1122&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemony1122&layout=compact&theme=vue)](https://github.com/lemony1122/github-readme-stats)
 
 </div>
 
