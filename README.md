@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&text=Hi!%20It's%20lemony1122&animation=twinkling&fontSize=35&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18D3FF,91EFFF,D8F7FF&section=header&text=Hi!%20It's%20lemony1122&animation=twinkling&fontSize=35&fontAlign=70&height=250)
 
 <h5 align="center"> ✉️lemony3741@gmail.com✉️ </h5>
 
@@ -9,6 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemony1122&layout=compact&theme=vue)](https://github.com/lemony1122/github-readme-stats)
 
 </div>
+
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
