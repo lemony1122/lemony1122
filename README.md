@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&section=header&text=Hi!%20It's%20lemony1122&animation=twinkling&fontSize=35&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&text=Hi!%20It's%20lemony1122&animation=twinkling&fontSize=35&fontAlign=70&height=250)
 
 <h5 align="center"> ✉️lemony3741@gmail.com✉️ </h5>
 
