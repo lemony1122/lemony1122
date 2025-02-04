@@ -12,9 +12,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemony1122&layout=compact&theme=vue" style="margin-left: 10px;" />
     </a>
   </div>
-  <a href="https://solved.ac/lemony3741/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lemony3741" />
-  </a>
 </div>
 
 <h3 align="left">📚 Tech Stack 📚</h3>
@@ -38,3 +35,6 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
 </p>
+<a href="https://solved.ac/lemony3741/">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lemony3741" />
+</a>
