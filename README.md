@@ -4,14 +4,12 @@
 
 <h3 align="left">👩‍💻 My Github Status 👩‍💻</h3>
 <div align="left">
-  <div>
+  <div style="display: flex; align-items: center;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=lemony1122&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue" />
     </a>
-  </div>
-  <div style="display: inline-block; margin-left: 10px;">
     <a href="https://github.com/lemony1122/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemony1122&layout=compact&theme=vue" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemony1122&layout=compact&theme=vue" style="margin-left: 10px;" />
     </a>
   </div>
   <a href="https://solved.ac/lemony3741/">
@@ -27,4 +25,16 @@
   <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sprin
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white"/>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+</p>
