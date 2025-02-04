@@ -7,7 +7,7 @@
 
 [![HeeJune's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemony1122&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemony1122&layout=compact&theme=vue)](https://github.com/lemony1122/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=본인의 백준 ID)](https://solved.ac/본인의 백준 ID/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lemony3741@gmail.com)](https://solved.ac/본인의 백준 ID/)
 </div>
 
 
